@@ -27,7 +27,7 @@ Developed a comprehensive C++ application aimed at managing and expediting the p
 
 - **Efficiency and Automation**
   - Integrated advanced features such as automatic sorting, item shipping logistics, and database management, significantly enhancing operational efficiency and user experience.
-  - 
+  
 - **C++ Programming**
   - In-depth use of C++ for system development, focusing on object-oriented design, data structures, and efficient memory management.
   
